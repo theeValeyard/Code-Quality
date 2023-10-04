@@ -2,10 +2,11 @@
 
 Code quality checklist for Lab-1B
 
-Participants- Tamanna
+# Participants- Tamanna
+
 Link - https://github.com/theeValeyard/Code-Quality
 
-Links to articles regarding code quality-
+# Links to articles regarding code quality-
 
 What Is Code Quality? Overview + How to Improve Code Quality
 https://www.perforce.com/blog/sca/what-code-quality-overview-how-improve-code-quality
@@ -13,7 +14,7 @@ https://www.perforce.com/blog/sca/what-code-quality-overview-how-improve-code-qu
 PHP code quality tools by jetbrains
 https://www.jetbrains.com/help/phpstorm/php-code-quality-tools.html
 
-Code quality checklist-
+# Code quality checklist-
 
 [-] Check for bugs, errors, and potential risks to make sure your code works as desired
 [-] Use Git (or any version control software) to track your progress
@@ -24,3 +25,7 @@ Code quality checklist-
 [-] Don't rely too much on plugins to help you code, it can make it complicated for other developers who work on the project. Keep it simple
 [-] Keep your code concise and automate testing when possible
 [-] Have an emergency backup
+
+# Self evaluation scale - 2/4
+
+I did not get a chance to do it in the class, so I couldn't get any feedback on any of my thoughts. Here's my summary checklist to improve the code quality.
