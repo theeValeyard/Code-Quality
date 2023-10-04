@@ -9,3 +9,6 @@ Links to articles regarding code quality-
 
 What Is Code Quality? Overview + How to Improve Code Quality
 https://www.perforce.com/blog/sca/what-code-quality-overview-how-improve-code-quality
+
+PHP code quality tools by jetbrains
+https://www.jetbrains.com/help/phpstorm/php-code-quality-tools.html
