@@ -1,6 +1,6 @@
 # Code-Quality
 
-Code quality checklist for Lab-1B
+Updated code quality checklist for Lab-2A
 
 # Participants- Tamanna
 
@@ -8,24 +8,26 @@ Link - https://github.com/theeValeyard/Code-Quality
 
 # Links to articles regarding code quality-
 
-What Is Code Quality? Overview + How to Improve Code Quality
-https://www.perforce.com/blog/sca/what-code-quality-overview-how-improve-code-quality
+https://medium.com/jose-antony/code-review-checklist-5b7c403748a2
 
-PHP code quality tools by jetbrains
-https://www.jetbrains.com/help/phpstorm/php-code-quality-tools.html
+https://gist.github.com/nerandell/c5b2e94c5af73768255f8cc46c508260
 
 # Code quality checklist-
 
-[-] Check for bugs, errors, and potential risks to make sure your code works as desired
 [-] Use Git (or any version control software) to track your progress
+[-] Check for bugs, errors, and potential risks to make sure your code works as desired
+[-] Explain the reason for any code that’s commented out to ensure there is no dead code
+[-] Use each function for a single task and make sure the entire function is viewable on a single screen
+[-] Don’t over-optimize your code, make sure you understand all of it when you review it
 [-] Use a coding standard to maintain consistency & readability
 [-] Document it well with descriptive comments and commits
-[-] Review, analyse, and test your code for quality assurance
-[-] Make sure it is easy to maintain and other's can contribute to it
-[-] Don't rely too much on plugins to help you code, it can make it complicated for other developers who work on the project. Keep it simple
+[-] Make sure the code is not repeated or duplicated
+[-] Review, analyze, and test your code for quality assurance
+[-] Make sure it is easy to maintain and others can contribute to it
 [-] Keep your code concise and automate testing when possible
 [-] Have an emergency backup
+[-] Don't rely too much on plugins to help you code, it can make it complicated for other developers who work on the project. Keep it simple
 
-# Self evaluation scale - 2/4
+# Self-evaluation scale - 2/4
 
-I did not get a chance to do it in the class, so I couldn't get any feedback on any of my thoughts. Here's my summary checklist to improve the code quality.
+I think a simple but thorough checklist like this works well for me. I think a task-based checklist can also be very handy but this approach works better for me as I'm doing more than one thing at a time. I tend to get distracted if I only check for one thing at a time like the GitHub checklist. I added a few things that my checklist was initially missing. I think it would work.
